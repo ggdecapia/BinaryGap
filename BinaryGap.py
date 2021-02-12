@@ -1,4 +1,4 @@
-num = 6291457
+num = 4225
 print("integer = ", num)
 
 # convert num into binary; remove 0b prefix
